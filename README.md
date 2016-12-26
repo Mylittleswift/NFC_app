@@ -1,7 +1,7 @@
 # android-nfc-sdk
 
 ## This SDK can do:
-## Tag reader
-## Tag writer
-## P2P beam
-## Card emulation
+1. Tag reader
+2. Tag writer
+3. P2P beam
+4. Card emulation
