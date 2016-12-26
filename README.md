@@ -1,4 +1,4 @@
-# android-nfc-sdk
+# Android NFC SDK
 
 ## This SDK can do:
 1. Tag reader
