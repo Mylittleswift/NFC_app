@@ -1,5 +1,5 @@
 # Android NFC SDK
-<img src="http://www.themobilespot.co.uk/wp-content/uploads/2014/12/itkt-blog-b-5-2-2013.jpg" width="256">
+<img src="http://www.themobilespot.co.uk/wp-content/uploads/2014/12/itkt-blog-b-5-2-2013.jpg" width="512">
 
 ## What's NFC?
 
