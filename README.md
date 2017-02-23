@@ -22,6 +22,7 @@ https://en.wikipedia.org/wiki/Near_field_communication  <br>
 2. P2P beam
 3. Card emulation
 
+Compatible with Android 4.4 (API 19) and above
 
 ## References
 
