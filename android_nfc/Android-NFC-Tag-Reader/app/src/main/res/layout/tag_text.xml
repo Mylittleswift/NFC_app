@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2016 Joey
+
+-->
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:layout_height="wrap_content"
+    android:padding="6dp"
+    android:textAppearance="@android:color/background_dark"
+    android:textIsSelectable="true"
+    android:ellipsize="end"
+    android:background="@android:color/background_light"
+    android:textColor="@android:color/holo_blue_dark"
+    android:textSize="@dimen/activity_horizontal_margin"
+    android:text="@string/app_name"
+    android:theme="@android:style/Holo.ButtonBar"
+    android:autoText="false"
+    android:gravity="start" />
