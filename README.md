@@ -11,11 +11,12 @@ Android-powered devices with NFC simultaneously support three main modes of oper
 2. P2P mode, allowing the NFC device to exchange data with other NFC peers; this operation mode is used by Android Beam.
 3. Card emulation mode, allowing the NFC device itself to act as an NFC card. The emulated NFC card can then be accessed by an external NFC reader, such as an NFC point-of-sale terminal. <br>
 
+iOS Core NFC now only supports reader mode.
 https://developer.android.com/guide/topics/connectivity/nfc/index.html  <br>
 https://en.wikipedia.org/wiki/Near_field_communication  <br>
 
 
-## This SDK can do:
+## Android SDK can do:
 
 1. Tag reader/writer
 (Support NfcA, NfcB, NfcF, NfcV, IsoDep, Ndef on NFC Forum Type 1, Type 2, Type 3 or Type 4 compliant tags, MifareUltralight, NfcBarcode. For MIFARE Classic tags, this would be useful: [MIFARE Classic Tool] (https://github.com/ikarus23/MifareClassicTool))
