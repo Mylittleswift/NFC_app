@@ -1,4 +1,4 @@
-# Android NFC SDK
+# NFC Applications on iOS and Android
 <img src="http://www.themobilespot.co.uk/wp-content/uploads/2014/12/itkt-blog-b-5-2-2013.jpg" width="512">
 
 ## What's NFC?
@@ -26,8 +26,9 @@ Compatible with Android 4.4 (API 19) and above
 
 ## References
 
-**[Android NFC API](https://developer.android.com/reference/android/nfc/package-summary.html)**  <br>
-**[NFC Forum Specification](http://nfc-forum.org/our-work/specifications-and-application-documents/specifications/)**  <br>
+[Android NFC API](https://developer.android.com/reference/android/nfc/package-summary.html)  <br>
+[iOS NFC API](https://developer.apple.com/documentation/corenfc/building_an_nfc_tag_reader_app?language=objc) <br>
+[NFC Forum Specification](http://nfc-forum.org/our-work/specifications-and-application-documents/specifications/)  <br>
 
 
 ## License
