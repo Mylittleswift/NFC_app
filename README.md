@@ -10,11 +10,11 @@ Android-powered devices with NFC simultaneously support three main modes of oper
 1. Reader/writer mode, allowing the NFC device to read and/or write passive NFC tags and stickers.
 2. P2P mode, allowing the NFC device to exchange data with other NFC peers; this operation mode is used by Android Beam.
 3. Card emulation mode, allowing the NFC device itself to act as an NFC card. The emulated NFC card can then be accessed by an external NFC reader, such as an NFC point-of-sale terminal. <br>
+https://developer.android.com/guide/topics/connectivity/nfc/index.html  <br>
 
 iOS Core NFC now only supports reader mode.
 https://developer.apple.com/documentation/corenfc?language=objc  <br>
 
-https://developer.android.com/guide/topics/connectivity/nfc/index.html  <br>
 
 ## Android SDK can do:
 
