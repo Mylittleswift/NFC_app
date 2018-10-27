@@ -12,9 +12,9 @@ Android-powered devices with NFC simultaneously support three main modes of oper
 3. Card emulation mode, allowing the NFC device itself to act as an NFC card. The emulated NFC card can then be accessed by an external NFC reader, such as an NFC point-of-sale terminal. <br>
 
 iOS Core NFC now only supports reader mode.
-https://developer.android.com/guide/topics/connectivity/nfc/index.html  <br>
-https://en.wikipedia.org/wiki/Near_field_communication  <br>
+https://developer.apple.com/documentation/corenfc?language=objc  <br>
 
+https://developer.android.com/guide/topics/connectivity/nfc/index.html  <br>
 
 ## Android SDK can do:
 
